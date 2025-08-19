@@ -1,12 +1,22 @@
-[index.html](https://github.com/user-attachments/files/21863920/index.html)
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script src="script.js"></script>
-</body>
-</html>
+[script.js](https://github.com/user-attachments/files/21864136/script.js)[Uploading script.jslet nome = "sofia"
+let idade = 20
+let cidade = "canide"
+let profissao = "veterinaria"
+let anoAtual = 2025 
+let anoNacimento = parseInt(anoAtual) - parseInt(idade) 
+
+let salario = 2000
+let bonus = 2
+let total =  parseInt(salario) * parseInt(bonus)
+  
+alert (` 
+ nome: ${nome}
+ idade : ${idade}
+ cidade:${cidade}
+ profissao: ${profissao}
+ anoAtual : ${anoAtual}
+ anoNacimento : ${anoNacimento}
+salario: ${salario} 
+bonus: ${bonus}
+total: ${total}`)…]()
+
